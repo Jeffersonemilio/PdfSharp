@@ -1,0 +1,14 @@
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\PdfSharp.exe.config
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\PdfSharp.exe
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\PdfSharp.pdb
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\PdfSharp.Charting.dll
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\PdfSharp.dll
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\PdfSharp.xml
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\PdfSharp.Charting.xml
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\obj\Debug\PdfSharp.csprojResolveAssemblyReference.cache
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\obj\Debug\PdfSharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\obj\Debug\PdfSharp.csproj.CopyComplete
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\obj\Debug\PdfSharp.exe
+C:\Users\DELL 3470\source\repos\PdfSharp\PdfSharp\obj\Debug\PdfSharp.pdb
